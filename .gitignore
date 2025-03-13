@@ -1,0 +1,4 @@
+.idea
+.venv/
+.streamlit/
+nltk_data/

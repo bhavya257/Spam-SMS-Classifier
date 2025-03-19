@@ -28,7 +28,7 @@ vectorizer = joblib.load('vectorizer.pkl')
 model = joblib.load('model.pkl')
 
 # Streamlit app title
-st.title("SMS Spam Classifier")
+st.title("Spam SMS Classifier")
 
 # Text input from user
 user_input = st.text_area("Enter an SMS message:")

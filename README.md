@@ -1,4 +1,4 @@
-# SMS Spam Classifier
+# Spam SMS Classifier
 
 This is a simple web application built with [Streamlit](https://streamlit.io/) that classifies SMS messages as **Spam** or **Not Spam**. It uses a machine learning model trained on SMS data, with preprocessing steps including tokenization, stop word removal, and stemming. The app takes a user-entered message, processes it, and predicts whether it’s spam using a pre-trained model.
 
@@ -26,7 +26,7 @@ sms-spam-classifier/
 
 ## Model Training
 The model and vectorizer were trained using a Kaggle notebook. You can find the full training code here:  
-[**Kaggle Notebook: SMS Spam Classification Training**](https://www.kaggle.com/code/bhavyajain21bci0308/sms-spam-classifier-model)
+[**Kaggle Notebook: Spam SMS Classification Training**](https://www.kaggle.com/code/bhavyajain21bci0308/sms-spam-classifier-model)
 
 ## Prerequisites
 - Python 3.8+
@@ -70,5 +70,5 @@ Listed in `requirements.txt`:
 This project is open-source and available under the [MIT License](LICENSE).
 
 ## Acknowledgments
-- Built as part of an SMS spam classification project.
+- Built as part of a spam SMS classification project.
 - Thanks to the open-source communities.

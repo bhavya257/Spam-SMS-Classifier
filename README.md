@@ -9,7 +9,7 @@ This is a simple web application built with [Streamlit](https://streamlit.io/) t
 
 ## Repository Structure
 ```
-sms-spam-classifier/
+spam-sms-classifier/
 ├── app.py            # Main Streamlit app file
 ├── requirements.txt  # Python dependencies
 ├── .gitignore        # Files and directories to ignore in Git
@@ -26,7 +26,7 @@ sms-spam-classifier/
 
 ## Model Training
 The model and vectorizer were trained using a Kaggle notebook. You can find the full training code here:  
-[**Kaggle Notebook: Spam SMS Classification Training**](https://www.kaggle.com/code/bhavyajain21bci0308/sms-spam-classifier-model)
+[**Kaggle Notebook: Spam SMS Classification Training**](https://www.kaggle.com/code/bhavyajain21bci0308/spam-sms-classifier-model)
 
 ## Prerequisites
 - Python 3.8+
@@ -35,8 +35,8 @@ The model and vectorizer were trained using a Kaggle notebook. You can find the 
 ## Installation
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/sms-spam-classifier.git
-   cd sms-spam-classifier
+   git clone https://github.com/bhavya257/Spam-SMS-Classifier.git
+   cd spam-sms-classifier
    ```
 2. Install the required dependencies:
    ```bash
